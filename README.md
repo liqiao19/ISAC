@@ -1,4 +1,4 @@
-# TcomCode：Near Field XL-MIMO for Sensing and Randon Access
+# TcomCode：Near-Field XL-MIMO for Sensing and Randon Access
 
 Code for IEEE Tcom paper: [Sensing User’s Activity, Channel, and Location with Near-Field Extra-Large-Scale MIMO](https://ieeexplore.ieee.org/document/10286475)
 
