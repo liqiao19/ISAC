@@ -1,6 +1,8 @@
-# TcomCode：Near-Field XL-MIMO for Sensing and Randon Access
-
 Code for IEEE Tcom paper: [Sensing User’s Activity, Channel, and Location with Near-Field Extra-Large-Scale MIMO](https://ieeexplore.ieee.org/document/10286475)
+
+Keywods:
+
+# Integrated Sensing and Communication (ISAC)
 
 The code is written by the authors from Beijing Institute of Technology
 
