@@ -2,11 +2,15 @@ Code for IEEE Tcom paper: [Sensing User’s Activity, Channel, and Location with
 
 ## Keywods:
 
-#### Near-Field Communication; Extra-Large-Scale MIMO; Milimeter-Wave Communication
+#### Near-Field Multple Access
 
-#### Near-Feild Localization; 
+#### Near-Feild Localization
 
 #### Integrated Sensing and Communication (ISAC)
+
+#### Extra-Large-Scale MIMO
+
+#### Milimeter-Wave Communication
 
 
 ## Usuage
