@@ -23,7 +23,13 @@ The code can be adapted for parfor to decrease the execution time.
 ## Citation:
 
 ```
-
+@article{qiao2023sensing,
+  title={Sensing User’s Activity, Channel, and Location with Near-Field Extra-Large-Scale MIMO},
+  author={Qiao, Li and Liao, Anwen and Li, Zhuoran and Wang, Hua and Gao, Zhen and Gao, Xiang and Su, Yu and Xiao, Pei and You, Li and Ng, Derrick Wing Kwan},
+  journal={IEEE transactions on communications},
+  year={2023},
+  publisher={IEEE}
+}
 ```
 
 
