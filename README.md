@@ -24,17 +24,8 @@ The code can be adapted for parfor to decrease the execution time.
 
 The authors have created a video podcast discussing this paper, available at: https://www.bilibili.com/video/BV1j5411z7Fj/?spm_id_from=333.999.0.0
 
-<details>
+[Click here to watch the video podcast](https://www.bilibili.com/video/BV1j5411z7Fj/?spm_id_from=333.999.0.0)
 
-  <summary>Click here to unfold/fold video.</summary>
-
-  <div style="background-color: #e0f7fa; padding: 15px; border-radius: 10px; margin-top: 10px;">
-
-    <iframe src="https://www.bilibili.com/video/BV1j5411z7Fj/?spm_id_from=333.999.0.0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-
-  </div>
-
-</details>
 
 ## Citation:
 
