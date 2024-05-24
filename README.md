@@ -1,7 +1,5 @@
 Code for IEEE Tcom paper: [Sensing User’s Activity, Channel, and Location with Near-Field Extra-Large-Scale MIMO](https://ieeexplore.ieee.org/document/10286475)
 
-The authors have created a video podcast discussing this paper, available at: https://www.bilibili.com/video/BV1j5411z7Fj/?spm_id_from=333.999.0.0
-
 ## Keywods:
 
 #### Near-Field Multple Access
@@ -21,6 +19,10 @@ Functions may utilize pagemtimes and pageinv to circumvent the use of for loops,
 
 The code can be adapted for parfor to decrease the execution time.
 
+
+## Video Podcast
+
+The authors have created a video podcast discussing this paper, available at: https://www.bilibili.com/video/BV1j5411z7Fj/?spm_id_from=333.999.0.0
 
 ## Citation:
 
