@@ -22,7 +22,7 @@ The code can be adapted for parfor to decrease the execution time.
 
 ## Video Podcast
 
-The authors have created a video podcast discussing this paper, available at: https://www.bilibili.com/video/BV1j5411z7Fj/?spm_id_from=333.999.0.0
+The authors have created a video podcast discussing this paper
 
 [Click here to watch the video podcast](https://www.bilibili.com/video/BV1j5411z7Fj/?spm_id_from=333.999.0.0)
 
