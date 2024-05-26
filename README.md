@@ -39,6 +39,7 @@ The authors have created a video podcast discussing this paper
 }
 ```
 
-# Related links
-https://gaozhen16.github.io/
+## Visit Our Lab
+Check out our lab's research at [GaoZhen Lab](https://gaozhen16.github.io/). Discover our latest projects and meet the team!
+
 
